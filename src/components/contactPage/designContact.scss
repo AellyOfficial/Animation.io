@@ -1,8 +1,0 @@
-.contact.des {
-  background: $des-primary-color;
-
-  & .social-item {
-    @extend .des-button;
-    padding: 1rem;
-  }
-}
